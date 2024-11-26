@@ -22,5 +22,5 @@
   - Open-source contributions  
 
 - 📫 **How to Reach Me:**  
-  - Email: [ofekbarshalom@gmail.com]  
-  - LinkedIn: [@ofekbarshalom]  
+  - Email: ofekbarshalom@gmail.com
+  - LinkedIn: @ofekbarshalom
