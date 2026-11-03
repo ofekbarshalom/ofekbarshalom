@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Ofek👋, a 3nd-year Computer Science student at Ariel University, based in Tel-Aviv, Israel. I’m passionate about coding, problem-solving, and creating innovative projects that make a difference! 🚀<br><br>- 👀 **Interests:**  <br>  - Cybersecurity and ethical hacking  <br>  - automation  <br>  - AI and machine learning  <br><br><br>- 💞️ **Looking to Collaborate On:**  <br>  - Cybersecurity tools and utilities   <br>  - Automation scripts or bot-building  <br>  - Open-source contributions  <br>
+Hi! I'm Ofek 👋, an offensive security consultant at Sophtix and a B.Sc. Computer Science graduate specializing in cybersecurity. I’m passionate about red teaming, problem-solving, and offensive AI 🚀<br><br>- 👀 **Interests:**  <br>  - Cybersecurity and ethical hacking  <br>  - automation  <br>  - AI and machine learning  <br><br><br>- 💞️ **Looking to Collaborate On:**  <br>  - Cybersecurity tools and utilities   <br>  - Automation scripts or bot-building  <br>  - Open-source contributions  <br>
 
 
 ## 🌐 Socials:
